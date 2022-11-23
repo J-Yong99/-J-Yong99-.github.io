@@ -28,5 +28,10 @@ social:
 
 google_analytics: "UA-58263416-1"
 
-disqus:
-    shortname: j-yong
+
+comment:
+  provider: "disqus"
+  disqus:
+    shortname: "j-yong99.github.io"
+
+
