@@ -31,11 +31,11 @@ disqus:
 
 google_analytics: G-MZB8ZZY7DN
 
-analytics:
-  provider               : google 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : G-MZB8ZZY7DN
-    anonymize_ip         : false
+# analytics:
+#   provider               : google 
+#                           # false (default), "google", "google-universal", "google-gtag", "custom"
+#   google:
+#     tracking_id          : G-MZB8ZZY7DN
+#     anonymize_ip         : false
   
 
