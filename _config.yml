@@ -26,12 +26,12 @@ social:
   email: alexj99@kookmin.ac.kr
 
 
-google_analytics: "UA-58263416-1"
+google_analytics: "G-MZB8ZZY7DN"
+
+disqus:
+    comments: true
+    shortname: j-yong99.github.io
 
 
-comment:
-  provider: "disqus"
-  disqus:
-    shortname: "j-yong99.github.io"
-
+  
 

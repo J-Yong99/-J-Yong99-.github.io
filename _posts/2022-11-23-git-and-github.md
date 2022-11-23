@@ -1,8 +1,9 @@
 ---
+comments: true
 layout: post
 title:  "Git & Github"
 date:   2022-11-23
-comments: true
+
 ---
 ## Git과 Github
 
