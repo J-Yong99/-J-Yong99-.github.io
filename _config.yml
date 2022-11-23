@@ -25,13 +25,17 @@ social:
   github: j-yong99
   email: alexj99@kookmin.ac.kr
 
-
-google_analytics: "G-MZB8ZZY7DN"
-
 disqus:
     comments: true
     shortname: j-yong99.github.io
 
+# google_analytics: "G-MZB8ZZY7DN"
 
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-MZB8ZZY7DN"
+    anonymize_ip         : true
   
 
